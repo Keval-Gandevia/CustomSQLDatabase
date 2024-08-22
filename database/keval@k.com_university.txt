@@ -1,0 +1,6 @@
+database_name:university
+tables_list:[student,department]
+student_attributes:[{id:int:true},{name:varchar(20):false}]
+department_attributes:[{id:int:false},{location:varchar(20):false}]
+student_tuples:[{name:keval,id:1}-{name:rikin,id:2}]
+department_tuples:[{location:goldberg,id:1}-{location:dsu,id:2}]

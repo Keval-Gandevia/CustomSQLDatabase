@@ -26,19 +26,19 @@ This project is a prototype of a lightweight Database Management System (DBMS) i
 
 2. **Navigate to the Project Directory**
 
-    ```bash
+   ```bash
    cd CustomSQLDatabase
    ```
 
 3. **Compile the Code**
 
-    ```bash
+   ```bash
    javac -d bin src/*.java
    ```
 
 4. **Compile the Code**
 
-    ```bash
+   ```bash
    java -cp bin Main
    ```
 
